@@ -10,6 +10,10 @@ In this minimalistic project, l present my dev journey and the projects l have c
 
 This is my first full project combining React and TailwindCSS.
 
+## BugFixes
+
+- The imgUrl was not showing because i was using a string literal instead of a template string. To fix this, i changed src="{imgUrl}" to src={imgUrl}.
+
 ## Interesting Facts
 
 The projects section is housed as json in the

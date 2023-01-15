@@ -4,7 +4,7 @@ function PortfolioItem({ title, imgUrl, stack, link }) {
   return (
     <div className="border-2 border-stone-900 rounded-md overflow-hidden">
       <img
-        src="{imgUrl}"
+        src={imgUrl}
         alt="Thumbnail of Portfolio"
         className="w-full h-36 md:h-48 object-cover cursor-pointer"
       />

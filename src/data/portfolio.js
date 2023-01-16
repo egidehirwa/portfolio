@@ -1,6 +1,6 @@
 export default [
   {
-    title: "Inyange Asbl",
+    title: "Inyange ASBL",
     imgUrl: "/assets/inyange-website.jpg",
     stack: ["WordPress", "Elementor"],
     link: "https://inyange.com/",

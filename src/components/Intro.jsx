@@ -9,7 +9,7 @@ function Intro() {
       <p className="text-base md:text-xl mb-3 font-light">Web Developer</p>
       <p className="text-sm max-w-xs md:max-w-xl mb-6 font-medium ">
         This is my coding journey. Browse the projects below to see what l have
-        been up to.
+        been up to. More to come.
       </p>
     </div>
   );
